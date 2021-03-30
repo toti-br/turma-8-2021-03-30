@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apresentação</title>
+</head>
+<body>
+    <p><h1>Apresentação de Oscar Romero</h1></p>
+    <p>Boa Noite Professor Lucas Meu nome é Oscar Eduardo Romero</p>
+    <p>Eu sou venezuelano de uma cidade chamada  <strong>Maracay</strong></p>
+    <p>Tengo 48 anos, llegue a Brasil hace un ano vivo en Piracicaba</p>
+    <p> :
+        <ul>
+            <li>Leer</li>
+
+        </ul>
+    </p>
+    
+
+</body>
+</html>
