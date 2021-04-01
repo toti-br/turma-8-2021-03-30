@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img{
+    width: 100%;
+}
+body{
+    background: #e2e2e2;
+    font-family: "roboto";
+}
+.Apresentação{
+    width: 90%;
+    max-width: 1400px;
+    margin: auto
+}
+.Apresentação h1{
+    text-align: center;
+    font-size: 38px;
+    margin: 15px 0px 40px;
+}
+.Apresentação-container{
+    display: flex;
+  justify-content: space-between 
+}
+.Apresentação-item{
+    width: 30%;
+    position: relative;
+    overflow: hidden;
+}
+.Apresentação-img{
+    transition: all 0.5s;
+}
+.Apresentação-text{
+    position: absolute;
+    bottom: 0%;
+    padding: 20px;
+    background-color: black;
+    color: #fff;
+    transform: translateY(100%);
+    transition: all 0.5s ease-out;
+    
+}
+.Apresentação-text p{
+    text-align: justify;
+}
+.Apresentação-item:hover .Apresentação-text {
+    transform: translateY(0%);
+}
+.Apresentação-item:hover .Apresentação-img{
+    transform: scale(1.5)
+}
+
+
+
